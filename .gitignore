@@ -21,3 +21,5 @@ CVS
 #node
 
 node_modules
+
+*.tmproj

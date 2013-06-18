@@ -7,5 +7,9 @@
 	"dependencies": {
 		"fibers": "1.0.x",
 		"ideal": "git://github.com/richcollins/ideal.git"
+	},
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/Cofactor/BTCStream.git"
 	}
 }
