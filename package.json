@@ -7,10 +7,13 @@
 	"dependencies": {
 		"fibers": "1.0.x",
 		"websocket": "1.0.x",
+		"mocha": "1.11.x",
+		"superagent": "0.14.x",
 		"ideal": "git://github.com/richcollins/ideal.git"
 	},
 	"repository" : {
 		"type" : "git",
 		"url" : "https://github.com/Cofactor/BTCStream.git"
-	}
+	},
+	"main": "./lib/btc-stream"
 }
